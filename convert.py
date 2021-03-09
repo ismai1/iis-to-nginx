@@ -42,4 +42,4 @@ for child in root.iter('rule'):
 
                 print("   proxy_set_header Host $http_host;")
                 print("}\n")
-                
+               
